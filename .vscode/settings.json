@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "c:\\a\\envs\\tbot\\Scripts\\python.exe",
+    "python.venvPath": "c:\\a\\envs",
+    "python.formatting.provider": "black",
+}

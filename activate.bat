@@ -1,0 +1,1 @@
+start c:\a\envs\tbot\Scripts\activate.bat
